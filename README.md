@@ -23,3 +23,17 @@ Features
 ✔ Correlation Analysis
 
 ✔ Multi-Agent AI Pipeline (Next Phase)
+
+
+Autonomous_Investment_Research_Agent/
+│
+├── data/
+├── src/
+│   ├── data_loader.py
+│   ├── retrieval.py
+│   ├── agents.py
+│   ├── workflow.py
+│   └── main.py
+│
+├── requirements.txt
+└── README.md
