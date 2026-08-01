@@ -147,4 +147,4 @@ streamlit run src/app.py
 
 ## Disclaimer
 
-This project is for educational and demonstrative purposes only. It is not intended to provide financial advice. Stock market predictions are inherently uncertain, and any investment decisions should be made based on thorough personal research and/or consultation with a professional financial advisor.
+Stock market predictions are inherently uncertain, and any investment decisions should be made based on thorough personal research and/or consultation with a professional financial advisor.
