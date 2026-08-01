@@ -75,8 +75,6 @@ NEWS_API_KEY="YOUR_NEWSAPI_KEY_HERE"
 
 **Replace `"YOUR_NEWSAPI_KEY_HERE"` with your actual API key.**
 
-* **IMPORTANT:** Ensure `.env` is in your `.gitignore` file to prevent accidentally committing your API key.
-
 ## Usage
 
 ### Step 1: Exploratory Data Analysis (EDA)
