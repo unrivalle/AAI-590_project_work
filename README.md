@@ -27,6 +27,7 @@ The goal is to provide a comprehensive report for a given stock ticker, combinin
 │   └── 02_Deep_Learning_Training.ipynb
 ├── src/
 │   ├── agents.py                  # Agent logic (Market, News, Report)
+│   ├── app.py                     # Streamlit UI Dashboard
 │   ├── data_loader.py             # Data fetching, cleaning, feature engineering, scaling, sequence creation
 │   ├── models.py                  # LSTM Neural Network architecture
 │   ├── retrieval.py               # NewsAPI integration, FinBERT sentiment analysis
