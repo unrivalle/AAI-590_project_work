@@ -135,6 +135,7 @@ This script will:
 # This provides the full ML System experience with visualizations
 streamlit run src/app.py
 ```
+![Streamlit Dashboard](capstone/images/Dashboard.png)
 ## Customization
 
 * **`src/main.py`:** Modify `TARGET_TICKER`, `COMPANY_FOR_NEWS`, `START_DATE`, `END_DATE` to analyze different stocks.
