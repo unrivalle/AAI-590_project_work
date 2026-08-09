@@ -1,0 +1,22 @@
+Investment Research Report: AAPL
+=====================================
+
+Market Analysis
+---------------
+Latest close: 313.33. 20d/50d SMA suggest a short-term uptrend. RSI(14) = 40.8 (neutral). Annualized 20d volatility: 37.4%.
+
+Macro Backdrop
+--------------
+Macro data unavailable (no FRED API key configured or fetch failed).
+
+SEC Filings & Fundamentals
+--------------------------
+SEC node error: 403 Client Error: Forbidden for url: https://www.sec.gov/files/company_tickers.json
+
+Recent Headlines
+-----------------
+- xcshot added to PyPI
+- Jason Sudeikis Cites the 1 ‘Ted Lasso’ Life Lesson That Made Him Come Back for Season 4
+- VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling
+- Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak - 9to5Google
+- Meet Francesca Hong, the Most Insane Democrat Running in 2026 (Literally)
