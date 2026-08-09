@@ -37,3 +37,7 @@ Autonomous_Investment_Research_Agent/
 │
 ├── requirements.txt
 └── README.md
+
+
+<img width="2880" height="1559" alt="image" src="https://github.com/user-attachments/assets/8af89415-caa9-47d7-97f1-bbd86ae30a7f" />
+
